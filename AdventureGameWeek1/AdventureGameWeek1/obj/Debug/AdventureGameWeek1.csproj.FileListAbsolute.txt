@@ -1,0 +1,6 @@
+c:\users\alexis\documents\visual studio 2015\Projects\AdventureGameWeek1\AdventureGameWeek1\bin\Debug\AdventureGameWeek1.exe.config
+C:\Users\Alexis\Documents\Visual Studio 2015\Projects\AdventureGameWeek1\AdventureGameWeek1\bin\Debug\AdventureGameWeek1.exe
+C:\Users\Alexis\Documents\Visual Studio 2015\Projects\AdventureGameWeek1\AdventureGameWeek1\bin\Debug\AdventureGameWeek1.pdb
+C:\Users\Alexis\Documents\Visual Studio 2015\Projects\AdventureGameWeek1\AdventureGameWeek1\obj\Debug\AdventureGameWeek1.csprojResolveAssemblyReference.cache
+C:\Users\Alexis\Documents\Visual Studio 2015\Projects\AdventureGameWeek1\AdventureGameWeek1\obj\Debug\AdventureGameWeek1.exe
+C:\Users\Alexis\Documents\Visual Studio 2015\Projects\AdventureGameWeek1\AdventureGameWeek1\obj\Debug\AdventureGameWeek1.pdb
